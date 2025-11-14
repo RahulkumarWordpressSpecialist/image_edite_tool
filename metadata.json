@@ -1,0 +1,5 @@
+{
+  "name": "Copy of OptiPix - AI Image Editor & Compressor",
+  "description": "A modern, client-side image optimization tool with AI-powered editing capabilities. Crop, filter, resize, and compress images locally, or use Google Gemini to magically edit your photos.",
+  "requestFramePermissions": []
+}
